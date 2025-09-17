@@ -520,7 +520,7 @@ export default function Home() {
         {!isConnected ? (
           <div
             className="bg-gray-50 rounded-2xl p-8 border border-gray-200 max-w-lg mx-auto shadow-lg animate-fade-in-up hover:shadow-xl transition-all duration-300"
-            style={{ animationDelay: "4s" }}
+            style={{ animationDelay: "0.5s" }}
           >
             <div className="text-center">
               <div className="text-6xl mb-4">🔗</div>
