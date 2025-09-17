@@ -651,11 +651,11 @@ export default function Home() {
       </main>
 
       {/* Error Display */}
-      {/* {error && (
+      {error && (
         <div className="max-w-2xl mx-auto mb-4 p-4 bg-red-900/50 rounded-lg border border-red-500">
           <p className="text-red-200 text-sm text-center">⚠️ {error}</p>
         </div>
-      )} */}
+      )}
 
       {/* Success Display */}
       {/* {success && (
