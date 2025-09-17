@@ -95,3 +95,22 @@ body {
 .animate-bounce-slow {
   animation: bounceSlow 2s ease-in-out infinite;
 }
+
+/* SweetAlert2 Custom Styles */
+.swal-popup-custom {
+  font-family: var(--font-noto-sans-thai), 'Noto Sans Thai', sans-serif !important;
+}
+
+.swal-title-custom {
+  font-family: var(--font-noto-sans-thai), 'Noto Sans Thai', sans-serif !important;
+  font-weight: 600 !important;
+}
+
+.swal-content-custom {
+  font-family: var(--font-noto-sans-thai), 'Noto Sans Thai', sans-serif !important;
+}
+
+.swal-confirm-custom {
+  font-family: var(--font-noto-sans-thai), 'Noto Sans Thai', sans-serif !important;
+  font-weight: 500 !important;
+}
